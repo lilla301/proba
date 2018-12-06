@@ -6,8 +6,9 @@ namespace EgeszSzamok
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();    
+            int a=0;
+            int b=1;
+                
         }
         
     }
